@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RecNes/RecNes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+[![wakatime](https://wakatime.com/badge/user/d397a5fe-1969-4cfd-8a41-0dc07baeb993.svg)](https://wakatime.com/@d397a5fe-1969-4cfd-8a41-0dc07baeb993)
+[![github](https://img.shields.io/github/followers/RecNes?logo=github&style=plastic)](https://github.com/RecNes?tab=followers)
+
+- 🔭 I’m currently working on [http://dopigo.com](http://dopigo.com)
+- 💬 Ask me about Python, Django
